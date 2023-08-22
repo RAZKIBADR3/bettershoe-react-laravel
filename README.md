@@ -7,6 +7,6 @@ features : • Login, logout
            • Add shoe to the favourites, Filter by category or genre etc.
 
 technologies : 
-  frontend : React, Redux
-  backend : Laravel
-  database : Mysql
+  • frontend : React, Redux
+  • backend : Laravel
+  • database : Mysql
