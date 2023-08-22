@@ -1,5 +1,3 @@
-![10](https://github.com/RAZKIBADR3/bettershoe-react-laravel/assets/96654573/3feede57-d390-4c62-968f-d272664a3db6)# bettershoe-react-laravel
-
 Full e-com website with shopping cart by React, Redux and Laravel,
 
 Features : • Login, logout
